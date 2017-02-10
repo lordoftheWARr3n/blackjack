@@ -9,8 +9,6 @@
   + Player starts with a certain number of chips and able to place bets from that pool 
   + The game determines the best move based on [basic startegy](https://en.wikipedia.org/wiki/Blackjack#Basic_strategy). **KJ**
   + The keeps the [count](https://en.wikipedia.org/wiki/Card_counting) of the boot, based on the Hi-Lo system, and determines whether or not the basic strategy play is best, and if not, which play is better. **KJ**
-  + Player shows both cards face up
-  + Dealer show one card face up and one face down
   
 ##Statistics engine
   (Curt please fill in whatever you want.)
